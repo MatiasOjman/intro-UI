@@ -1509,7 +1509,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   txtSaludo: {fileID: 1928405609}
-  inputNombre: {fileID: 0}
+  inputNombre: {fileID: 947823237}
 --- !u!4 &1977513304
 Transform:
   m_ObjectHideFlags: 0
